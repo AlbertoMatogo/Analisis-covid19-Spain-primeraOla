@@ -1,4 +1,4 @@
-##Study of the influence of different variables on Covid-19 evolution (Europe)
+## Study of the influence of different variables on Covid-19 evolution (Europe)
 
 **The objective of the project is to analyze the evolution of the pandemic in different European countries in the first wave (from January to August). Focusing on variables like**:
 - The number of inhabitants.
