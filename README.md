@@ -22,5 +22,5 @@
                     
 > "Europe dataset:", [Link](https://github.com/CSSEGISandData/COVID-19)。
 > "datos_Comunidad_autonoma dataset:", [Link](https://cnecovid.isciii.es/covid19/)。
-> "Momo_CCAA_2018_2020 dataset:", [Link](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html/MoMo/Paginas/Informes-MoMo-2020.aspx)。
+> "Momo_CCAA_2018_2020 dataset:", [Link](https://momo.isciii.es/public/momo/dashboard/momo_dashboard.html)。
 > "Decisions made by the countries:", [Link](https://www.covid19healthsystem.org/searchandcompare.aspx)。
